@@ -1,0 +1,2 @@
+1 settle_month is less than spawn_month, so logical age at settlement calculated to be: 1  for settle_time 1.  Does not match read value of 0 are you sure? 
+1  reset parm_dev start year to styr for parm: 60 1
