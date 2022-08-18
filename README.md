@@ -16,7 +16,11 @@ Composiciones de talas, edades, indices por flota.
 
 Modelos:
 
-s1_ Todas las Flotas
-s3- Flotas Artesanales (2)
-s4_ Flota Artesanal Espinel
-s5_ Indice Biomasa Zhou.
+s1 Todas las Flotas
+
+
+s3 Flotas Artesanales (2)
+
+s4 Flota Artesanal Espinel
+
+s5 Indice Biomasa Zhou (no implementado aún).
